@@ -1,9 +1,7 @@
 Assignment 3 - Analysis of IP Protocol
 CSc 361: Computer Communications and Networks
  
-Author: Vanya Singla
-Student ID: V0107173
- 
+
 ==================================================
 HOW TO RUN
 ==================================================
